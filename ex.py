@@ -1,1 +1,2 @@
 print("dhanushya")
+print("dhanu")
